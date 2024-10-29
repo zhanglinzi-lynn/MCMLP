@@ -2,7 +2,7 @@
 
 ### paper
 
-Convolution Architecture for Multivariate Time Series - Necessary or Not?
+A Real-Time Lightweight Perceptron for Cloud–Edge Collaborative Predictive Maintenance of Online Service Systems
 
 ### usage
 
