@@ -7,7 +7,7 @@ A Real-Time Lightweight Perceptron for Cloud–Edge Collaborative Predictive Mai
 ### usage
 
 
-Applying the models on the electricity dataset used in the article.
+Applying the models on the toy dataset used in the article.
 
 
 
